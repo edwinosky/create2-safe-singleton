@@ -1,0 +1,12 @@
+{
+  "name": "vanity-search",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "viem": "^2.9.0"
+  }
+}
